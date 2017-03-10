@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>fmkaseya</id>
+    <version>9.3.0.14</version>
+    <packageSourceUrl>https://github.com/flatlinebb/fmkaseya</packageSourceUrl>
+    <owners>FlexManage</owners>
+    <title>fmkaseya (Install)</title>
+    <authors>Bart Boryczko</authors>
+    <projectUrl>https://github.com/flatlinebb/fmkaseya</projectUrl>
+    <tags>fmkaseya admin kaseya agent rmm remote</tags>
+    <summary>Installs the Generic Kaseya Agent</summary>
+    <description>Installs the Generic Kaseya Agent and places the agent in the onboarding.onboarding group.</description>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
