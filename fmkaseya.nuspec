@@ -2,10 +2,10 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>fmkaseya</id>
-    <version>9.3.0.14</version>
+    <version>9.3.0.17</version>
     <packageSourceUrl>https://github.com/flatlinebb/fmkaseya</packageSourceUrl>
     <owners>FlexManage</owners>
-    <title>fmkaseya (Install)</title>
+    <title>fmkaseya</title>
     <authors>Bart Boryczko</authors>
     <projectUrl>https://github.com/flatlinebb/fmkaseya</projectUrl>
     <tags>fmkaseya admin kaseya agent rmm remote</tags>
